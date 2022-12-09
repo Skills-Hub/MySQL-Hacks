@@ -71,3 +71,4 @@ As webdeveloper one of the most used tools is SQL, almost all the database drive
 #### 68. DUMP
 #### 69. PATH
 #### 70. UNISTR
+#### 71. GLOBAL
