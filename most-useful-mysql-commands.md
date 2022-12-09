@@ -72,3 +72,7 @@ As webdeveloper one of the most used tools is SQL, almost all the database drive
 #### 69. PATH
 #### 70. UNISTR
 #### 71. GLOBAL
+#### 72. VARIABLES
+#### 73. SESISONS
+#### 74. PERSISST
+
